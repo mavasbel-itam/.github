@@ -53,4 +53,4 @@ The `wikimedia` source needs no API key and prints five events as JSON lines. Th
 ---
 
 > [!NOTE]
-> Graded course material, including homework, exams, and grades, and the shared slide theme are kept outside GitHub. This organization is maintained by the course instructor; it is not an official ITAM account.
+> This organization is maintained by the course instructor; it is not an official ITAM account.
